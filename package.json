@@ -1,0 +1,14 @@
+{
+  "name": "js_algorithms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:dulcehc/js-algorithms.git",
+  "author": "Dulce Hernandez <dulce.hernandezc@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
